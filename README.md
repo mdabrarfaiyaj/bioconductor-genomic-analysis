@@ -23,7 +23,7 @@ It includes R scripts and a visual summary (PDF carousel) demonstrating key skil
 | `02_Biostrings_ZikaVirus.R` | DNA/RNA translation and pattern matching |
 | `03_GenomicRanges_ABCD1.R` | Extracting and analyzing gene intervals |
 | `04_ShortRead_QC.R` | Sequence quality assessment |
-| `Bioconductor_in_Action_Carousel.pdf` | Visual summary shared on LinkedIn |
+| `Bioconductor_in_Action_Md Abrar Faiyaj.pdf` | Visual summary shared on LinkedIn |
 
 ## 🙏 Acknowledgements
 Special thanks to **DataCamp**, and instructors **James Chapman** and **Paula Martinez**, for an excellent and practical introduction to Bioconductor in R.
