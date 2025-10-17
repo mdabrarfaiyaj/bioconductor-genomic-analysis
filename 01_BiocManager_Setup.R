@@ -7,7 +7,7 @@ install.packages("BiocManger")
 BiocManager::install("GenomicRanges")
 #Load BiocManager
 library(BiocManager)
-#Check BIOConductor version
+#Check BioConductor version
 version()
 library(GenomicRanges)
 #Install BSgenome
