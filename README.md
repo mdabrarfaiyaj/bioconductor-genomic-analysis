@@ -28,5 +28,5 @@ It includes R scripts and a visual summary (PDF carousel) demonstrating key skil
 ## 🙏 Acknowledgements
 Special thanks to **DataCamp**, and instructors **James Chapman** and **Paula Martinez**, for an excellent and practical introduction to Bioconductor in R.
 🔗 View my LinkedIn post and visual summary:
-[LinkedIn Post]
+[LinkedIn Post](https://www.linkedin.com/posts/md-abrar-faiyaj-559246381_bioconductor-in-action-from-code-to-biological-activity-7384822574536642560-F6cL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4vl5UBfOLNKWStdhZA9RK9R9Bgjm94pUU)
 
