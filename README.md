@@ -4,6 +4,8 @@ This repository showcases my applied learning from **DataCamp’s “Introductio
 
 It includes R scripts and a visual summary (PDF carousel) demonstrating key skills in genomic data analysis and visualization.
 
+📝 **Blog post:** [Four Bioconductor Tools Every Beginner Should Know](https://mdabrarfaiyaj.github.io/posts/Four-Bioconductor-Tools-Every-Beginner-Should-Know/)
+
 ## 🔬 Course Chapters
 1. What is Bioconductor?
 2. Biostrings and When to Use Them
